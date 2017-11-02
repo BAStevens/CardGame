@@ -11,5 +11,6 @@ namespace CardGameLibrary
         SpecialAttack fireball = new SpecialAttack();
 
         //public void Mage(){}
+            //Naming conventions won't allow this, what is this for exactly?
     }
 }

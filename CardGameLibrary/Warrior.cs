@@ -11,5 +11,6 @@ namespace CardGameLibrary
         SpecialAttack berserk = new SpecialAttack();
 
         //public void Warrior(){}
+            //Naming conventions won't allow this, what is this for exactly?
     }
 }

@@ -1,0 +1,11 @@
+H:\Semester 2\BAILEY\CardGame\CardGameLibrary\bin\Debug\CardGameLibrary.dll
+H:\Semester 2\BAILEY\CardGame\CardGameLibrary\bin\Debug\CardGameLibrary.pdb
+H:\Semester 2\BAILEY\CardGame\CardGameLibrary\obj\Debug\CardGameLibrary.csprojResolveAssemblyReference.cache
+H:\Semester 2\BAILEY\CardGame\CardGameLibrary\obj\Debug\CardGameLibrary.csproj.CoreCompileInputs.cache
+H:\Semester 2\BAILEY\CardGame\CardGameLibrary\obj\Debug\CardGameLibrary.dll
+H:\Semester 2\BAILEY\CardGame\CardGameLibrary\obj\Debug\CardGameLibrary.pdb
+E:\SWINBURNE\BAILEY\CardGame\CardGameLibrary\bin\Debug\CardGameLibrary.dll
+E:\SWINBURNE\BAILEY\CardGame\CardGameLibrary\bin\Debug\CardGameLibrary.pdb
+E:\SWINBURNE\BAILEY\CardGame\CardGameLibrary\obj\Debug\CardGameLibrary.csprojResolveAssemblyReference.cache
+E:\SWINBURNE\BAILEY\CardGame\CardGameLibrary\obj\Debug\CardGameLibrary.dll
+E:\SWINBURNE\BAILEY\CardGame\CardGameLibrary\obj\Debug\CardGameLibrary.pdb

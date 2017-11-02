@@ -11,5 +11,6 @@ namespace CardGameLibrary
         SpecialAttack backStab = new SpecialAttack();
 
         //public void Thief(){}
+            //Naming conventions won't allow this, what is this for exactly?
     }
 }

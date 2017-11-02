@@ -18,21 +18,21 @@
         </Grid.ColumnDefinitions>
 
         <StackPanel Grid.Column="0" Margin="0">
-            <Button Name="PlayerClassWarriorr" FontSize="20" Click="PlayerClassWarrior_Click" Margin="100,0,100,0" Height="182" Content="Placeholder"/>
-            <TextBlock FontSize="50" Margin="50,150,50,100" FontWeight="Bold" TextAlignment="Center">Warrior</TextBlock>
-            <Button x:Name="PlayerClassWarrior" FontSize="20" Click="PlayerClassWarrior_Click" Margin="50,0,50,0" Height="110" Content="Choose"/>
+            <Image x:Name="WarriorIMG" Height="222" Source="unlock_homer_barbarian.jpg" Stretch="Fill" Margin="100,30,100,0"/>
+            <TextBlock FontSize="50" Margin="50,90,50,100" FontWeight="Bold" TextAlignment="Center"><Run Text="Warrior"/></TextBlock>
+            <Button x:Name="PlayerClassWarrior" FontSize="49" Click="PlayerClassWarrior_Click" Margin="50,0,50,0" Height="110" Foreground="White" Background="Red" Content="Choose" FontWeight="Bold"/>
         </StackPanel>
 
         <StackPanel Grid.Column="1" Margin="0">
-            <Button x:Name="PlayerClassMagee" FontSize="20" Click="PlayerClassMage_Click" Margin="100,0,100,0" Height="182" Content="Placeholder"/>
-            <TextBlock FontSize="50" Margin="50,150,50,100" FontWeight="Bold" TextAlignment="Center">Mage</TextBlock>
-            <Button x:Name="PlayerClassMage" FontSize="20" Click="PlayerClassMage_Click" Margin="50,0,50,0" Height="110" Content="Choose"/>
+            <Image x:Name="MageIMG" Height="222" Source="Wizard_Marge.jpg" Stretch="Fill" Margin="100,30,100,0"/>
+            <TextBlock FontSize="50" Margin="50,90,50,100" FontWeight="Bold" TextAlignment="Center">Mage</TextBlock>
+            <Button x:Name="PlayerClassMage" FontSize="49" Click="PlayerClassMage_Click" Margin="50,0,50,0" Height="110" Foreground="White" Background="Blue" Content="Choose" FontWeight="Bold"/>
         </StackPanel>
 
         <StackPanel Grid.Column="2" Margin="0">
-            <Button x:Name="PlayerClassThieff" FontSize="20" Click="PlayerClassThief_Click" Margin="100,0,100,0" Height="182" Content="Placeholder"/>
-            <TextBlock FontSize="50" Margin="50,150,50,100" FontWeight="Bold" TextAlignment="Center">Thief</TextBlock>
-            <Button x:Name="PlayerClassThief" FontSize="20" Click="PlayerClassThief_Click" Margin="50,0,50,0" Height="110" Content="Choose"/>
+            <Image x:Name="ThiefIMG" Height="222" Source="unlock_troop04.jpg" Stretch="Fill" Margin="100,30,100,0"/>
+            <TextBlock FontSize="50" Margin="50,90,50,100" FontWeight="Bold" TextAlignment="Center">Thief</TextBlock>
+            <Button x:Name="PlayerClassThief" FontSize="49" Click="PlayerClassThief_Click" Margin="50,0,50,0" Height="110" Foreground="White" Background="Green" Content="Choose" FontWeight="Bold"/>
         </StackPanel>
 
 

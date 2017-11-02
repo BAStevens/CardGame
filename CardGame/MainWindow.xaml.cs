@@ -35,28 +35,28 @@ namespace CardGame
 
         void PlayerClassThief_Click(object sender, RoutedEventArgs e)
         {
-            GameController.ChoosePlayerClass.
-            GameController.StartBattle();
-            this.Close();
-            Playfield playfield = new Playfield;
+            //GameController.ChoosePlayerClass();
+            //GameController.StartBattle();
+            Playfield playfield = new Playfield();
             playfield.Show();
+            this.Close();
         }
 
         private void PlayerClassMage_Click(object sender, RoutedEventArgs e)
         {
-            //GameController.ChoosePlayerClass("T");
-            GameController.StartBattle();
-            this.Close();
-            Playfield playfield = new Playfield;
+            //GameController.ChoosePlayerClass();
+            //GameController.StartBattle();
+            Playfield playfield = new Playfield();
             playfield.Show();
+            this.Close();
         }
 
         private void PlayerClassWarrior_Click(object sender, RoutedEventArgs e)
         {
-            //GameController.ChoosePlayerClass("T");
-            GameController.StartBattle();
+            //GameController.ChoosePlayerClass();
+            //GameController.StartBattle();
             this.Close();
-            Playfield playfield = new Playfield;
+            Playfield playfield = new Playfield();
             playfield.Show();
         }
     }

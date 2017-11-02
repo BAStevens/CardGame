@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CardGameLibrary
 {
-    //Cant inherit from attack. class missing
+        //Cant inherit from attack. class missing
     public class NormalAttack
     {
         public int DealNDamage { get; set; }

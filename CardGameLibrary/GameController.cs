@@ -10,12 +10,8 @@ namespace CardGameLibrary
     {
         public NonPlayerCharacter Enemy { get; set; }
         public PlayerCharacter Player { get; set; }
-
-        public void ChoosePlayerClass()
-        {
-            
-        }
-
+        public char ChoosePlayerClass { get; set; }
+            //Why is ChoosePlayerClass a Char? Shouldn't it be a string?
         public char GameWinner { get; set; }
 
         public void NormalAttack()
@@ -30,7 +26,7 @@ namespace CardGameLibrary
 
         public void StartBattle()
         {
-            
+            throw new NotImplementedException();
             //Playfield playfield = new Playfield();
             //this.Close();
             //playfield.Show();
